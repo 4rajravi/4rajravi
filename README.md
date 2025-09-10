@@ -8,7 +8,7 @@
 ## 🚀 Skills
 - **Languages**: Python, C++, R, SQL  
 - **Big Data**: Flink, Kafka, Spark  
-- **AI/ML**: PyTorch, Scikit-learn, Transformers, NLTK  
+- **AI/ML**: Deep Learning, Transformers, NLP, GAN
 - **Database**: PostgreSQL, MySQL, NOSQL, Redis
 
 ---
