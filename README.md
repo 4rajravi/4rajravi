@@ -17,7 +17,6 @@
 - [Generalised ML Pipeline](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
 - [Cold Start Recommendation System](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
 - [Vulnerability Prediction](https://github.com/4rajravi/Vulnerability-Prediction) 
-- [Explainability](https://github.com/4rajravi/Human-Centric-AI/tree/main/project03)
 - [Active Learning for Text Classification](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
 - [Reinforcement Learning with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
 - [Scalable Data Extraction](https://github.com/4rajravi/chef-treff_hackathon_2025)
