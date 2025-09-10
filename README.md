@@ -12,7 +12,7 @@
 - **Database**: PostgreSQL, MySQL, NOSQL, Redis
 
 ---
-## 🔥 Projects
+## 💻 Projects
 - [Real-Time Traffic Monitoring](https://github.com/4rajravi/Taxi-Dashboard)
 - [Generalised ML Pipeline](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
 - [Cold Start Recommendation System](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rajravi&show_icons=true&theme=radical)  
 
 ---
 ## 📫 Connect with Me
