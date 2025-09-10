@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ravi Raj 👋  
 
-<!--
-**4rajravi/4rajravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science @ TUHH  
+💻 Ex-Data Scientist @ HighRadius (2 yrs)  
+⚡ Passion: Real-time data systems, AI, and CUDA programming  
 
-Here are some ideas to get you started:
+---
+## 🚀 Skills
+- **Languages**: Python, C++, CUDA, SQL  
+- **Big Data**: Flink, Kafka, Spark  
+- **AI/ML**: PyTorch, Scikit-learn, Transformers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🔥 Projects
+- [Real-Time Traffic Monitoring](link) – Big Data lab project using Kafka + Flink + Redis  
+- [CUDA Matrix Library](link) – GPU-accelerated matrix ops  
+- [Active Learning for Text Classification](link) – IMDB sentiment analysis  
+
+---
+## 📊 GitHub Stats
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+---
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
