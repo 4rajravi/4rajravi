@@ -2,13 +2,14 @@
 
 🎓 Master's in Data Science @ TUHH  
 💻 Ex-Data Scientist @ HighRadius (2 yrs)  
-⚡ Passion: Real-time data systems, AI, and CUDA programming  
+⚡ Passion: Real-time data systems, AI, and NLP.
 
 ---
 ## 🚀 Skills
-- **Languages**: Python, C++, CUDA, SQL  
+- **Languages**: Python, C++, R, SQL  
 - **Big Data**: Flink, Kafka, Spark  
-- **AI/ML**: PyTorch, Scikit-learn, Transformers  
+- **AI/ML**: PyTorch, Scikit-learn, Transformers, NLTK  
+- **Database**: PostgreSQL, MySQL, NOSQL, Redis
 
 ---
 ## 🔥 Projects
