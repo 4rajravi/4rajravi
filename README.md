@@ -2,7 +2,7 @@
 
 🎓 Master's in Data Science @ TUHH  
 💻 Ex-Data Scientist @ HighRadius (2 yrs)  
-⚡ Passion: Real-time data systems, AI, and NLP.
+⚡ Interests: Real-time data systems, AI, and NLP.
 
 ---
 ## 🚀 Skills
