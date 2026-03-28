@@ -119,6 +119,44 @@ Modular, reusable machine learning pipeline supporting multiple model types with
 </td>
 <td width="50%">
 
+### 🔬 [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
+Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.
+
+`Interpretability` `Causal Inference` `BERT` `Research`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌦️ [Weather App](https://github.com/4rajravi/weather-app)
+Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.
+
+`JavaScript` `API` `Geolocation` `CSS3`
+
+</td>
+
+<td width="50%">
+
+### 🛰️ [Space Project](https://github.com/4rajravi/space-project)
+Satellite tracker — visualize orbits in real time, predict overhead passes for your location, and more. 🚧 *In progress*
+
+`Satellites` `Visualization` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚽ [Football Diary](https://github.com/4rajravi/football-diary)
+Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) answers natural language queries via SQL tool-use with inline charts. 17 stat types, player profiles, match timelines, and a one-click ETL pipeline.
+
+`Python` `FastAPI` `React` `SQLite` `Groq` `Full-Stack`
+
+</td>
+
 ### 🤖 [RLHF — RL with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
 Implementation of reinforcement learning from human feedback — aligning model behavior with human preferences.
 
@@ -165,43 +203,6 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-### 🔬 [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
-Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.
-
-`Interpretability` `Causal Inference` `BERT` `Research`
-
-</td>
-<td width="50%">
-
-### 🌦️ [Weather App](https://github.com/4rajravi/weather-app)
-Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.
-
-`JavaScript` `API` `Geolocation` `CSS3`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛰️ [Space Project](https://github.com/4rajravi/space-project)
-Satellite tracker — visualize orbits in real time, predict overhead passes for your location, and more. 🚧 *In progress*
-
-`Satellites` `Visualization` `Python`
-
-</td>
-<td width="50%">
-
-### ⚽ [Football Diary](https://github.com/4rajravi/football-diary)
-Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) answers natural language queries via SQL tool-use with inline charts. 17 stat types, player profiles, match timelines, and a one-click ETL pipeline.
-
-`Python` `FastAPI` `React` `SQLite` `Groq` `Full-Stack`
-
-</td>
-</tr>
 </table>
 
 ---
