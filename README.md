@@ -66,147 +66,121 @@
 </div>
 
 ---
+## 🚀 Featured Projects
 
-## Featured Projects
+---
 
-<table>
-<tr>
-<td width="50%">
+**⚽ Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/football-diary)
+<br/>
+<sub>Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) with SQL tool-use and inline charts. 17 stat types, player profiles, match timelines, one-click ETL pipeline.</sub>
+<br/>
+<sub>`FastAPI` `React` `SQLite` `Groq` `Full-Stack`</sub>
 
-### [Real-Time Traffic Monitoring](https://github.com/4rajravi/Taxi-Dashboard)
-Live taxi data streaming & visualization with **Kafka**, **Flink**, and interactive dashboards. End-to-end real-time data pipeline.
+---
 
-`Kafka` `Flink` `Streaming` `Dashboard`
+**🏎️ Real-Time Traffic Monitoring** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Taxi-Dashboard)
+<br/>
+<sub>Live taxi data streaming & visualization with Kafka, Flink, and interactive dashboards. End-to-end real-time data pipeline.</sub>
+<br/>
+<sub>`Kafka` `Flink` `Streaming` `Dashboard`</sub>
 
-</td>
-<td width="50%">
+---
 
-### [ADHD Detection](https://github.com/4rajravi/ADHD-Detection)
-ML-based diagnostic tool for ADHD detection using clinical data and advanced classification models.
+**🔬 Neuron Interpretability Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/neuron-interpretability)
+<br/>
+<sub>Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.</sub>
+<br/>
+<sub>`Interpretability` `Causal Inference` `BERT` `Research`</sub>
 
-`Classification` `Healthcare AI` `scikit-learn`
+---
 
-</td>
-</tr>
+**🔐 Vulnerability Prediction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Vulnerability-Prediction)
+<br/>
+<sub>Predicting software vulnerabilities using NLP on code — combining deep learning with security analysis.</sub>
+<br/>
+<sub>`NLP` `Security` `Deep Learning`</sub>
 
-<tr>
-<td width="50%">
+---
 
-### [Vulnerability Prediction](https://github.com/4rajravi/Vulnerability-Prediction)
-Predicting software vulnerabilities using NLP on code — combining deep learning with security analysis.
+**🧠 ADHD Detection** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/ADHD-Detection)
+<br/>
+<sub>ML-based diagnostic tool for ADHD detection using clinical data and advanced classification models.</sub>
+<br/>
+<sub>`Classification` `Healthcare AI` `scikit-learn`</sub>
 
-`NLP` `Security` `Deep Learning`
+---
 
-</td>
-<td width="50%">
+**🌦️ Weather App** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/weather-app)
+<br/>
+<sub>Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.</sub>
+<br/>
+<sub>`JavaScript` `API` `Geolocation` `CSS3`</sub>
 
-### [Cold Start Recommendation System](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
-Tackling the cold start problem in recommender systems with hybrid approaches for new users/items.
+---
 
-`RecSys` `Collaborative Filtering` `Python`
+**🛰️ Space Project** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/space-project)
+<br/>
+<sub>Satellite tracker — visualize orbits in real time, predict overhead passes for your location. 🚧 In progress</sub>
+<br/>
+<sub>`Satellites` `Visualization` `Python`</sub>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+**🌌 Gravitational Motion (CUDA)** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
+<br/>
+<sub>GPU-accelerated N-body gravitational simulation using CUDA for high-performance parallel computing.</sub>
+<br/>
+<sub>`CUDA` `C++` `HPC` `Physics`</sub>
 
-### [Generalized ML Pipeline](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
-Modular, reusable machine learning pipeline supporting multiple model types with automated preprocessing & evaluation.
+---
 
-`MLOps` `Pipeline` `Automation`
+**🎯 Cold Start Recommendation** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
+<br/>
+<sub>Tackling the cold start problem in recommender systems with hybrid approaches for new users/items.</sub>
+<br/>
+<sub>`RecSys` `Collaborative Filtering` `Python`</sub>
 
-</td>
-<td width="50%">
+---
 
-### [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
-Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.
+**🤖 RLHF — RL with Human Feedback** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
+<br/>
+<sub>Reinforcement learning from human feedback — aligning model behavior with human preferences.</sub>
+<br/>
+<sub>`RLHF` `RL` `Alignment`</sub>
 
-`Interpretability` `Causal Inference` `BERT` `Research`
+---
 
-</td>
-</tr>
+**⚙️ Generalized ML Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
+<br/>
+<sub>Modular, reusable ML pipeline with automated preprocessing & evaluation across multiple model types.</sub>
+<br/>
+<sub>`MLOps` `Pipeline` `Automation`</sub>
 
-<tr>
-<td width="50%">
+---
 
-### [Weather App](https://github.com/4rajravi/weather-app)
-Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.
+**📝 Active Learning for Text** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
+<br/>
+<sub>Smart sample selection strategies for efficient text classification with minimal labeled data.</sub>
+<br/>
+<sub>`Active Learning` `NLP` `Annotation`</sub>
 
-`JavaScript` `API` `Geolocation` `CSS3`
+---
 
-</td>
+**🍳 Scalable Data Extraction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/chef-treff_hackathon_2025)
+<br/>
+<sub>Hackathon project for scalable, structured data extraction from unstructured sources.</sub>
+<br/>
+<sub>`Hackathon` `ETL` `Data Engineering`</sub>
 
-<td width="50%">
+---
 
-### [Space Project](https://github.com/4rajravi/space-project)
-Satellite tracker — visualize orbits in real time, predict overhead passes for your location, and more. 🚧 *In progress*
+**💾 Cache Simulator** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Cache-Simulator)
+<br/>
+<sub>Simulating CPU cache behavior — direct-mapped, set-associative, and fully-associative cache architectures.</sub>
+<br/>
+<sub>`C++` `Systems` `Computer Architecture`</sub>
 
-`Satellites` `Visualization` `Python`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [Football Diary](https://github.com/4rajravi/football-diary)
-Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) answers natural language queries via SQL tool-use with inline charts. 17 stat types, player profiles, match timelines, and a one-click ETL pipeline.
-
-`Python` `FastAPI` `React` `SQLite` `Groq` `Full-Stack`
-
-</td>
-
-<td width="50%">
-  
-### [RLHF — RL with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
-Implementation of reinforcement learning from human feedback — aligning model behavior with human preferences.
-
-`RLHF` `RL` `Alignment`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [Active Learning for Text Classification](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
-Smart sample selection strategies for efficient text classification with minimal labeled data.
-
-`Active Learning` `NLP` `Annotation`
-
-</td>
-<td width="50%">
-
-### [Gravitational Motion Simulation (CUDA)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
-GPU-accelerated N-body gravitational simulation using CUDA for high-performance parallel computing.
-
-`CUDA` `C++` `HPC` `Physics`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [Scalable Data Extraction](https://github.com/4rajravi/chef-treff_hackathon_2025)
-Hackathon project for scalable, structured data extraction from unstructured sources.
-
-`Hackathon` `ETL` `Data Engineering`
-
-</td>
-<td width="50%">
-
-### [Cache Simulator](https://github.com/4rajravi/Cache-Simulator)
-Simulating CPU cache behavior — direct-mapped, set-associative, and fully-associative cache architectures.
-
-`C++` `Systems` `Computer Architecture`
-
-</td>
-</tr>
-
-</table>
-
+---
 ---
 
 ## GitHub Stats
