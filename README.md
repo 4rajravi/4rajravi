@@ -20,15 +20,10 @@
 
 ## 🧬 About Me
 
-```python
-class RaviRaj:
-    def __init__(self):
-        self.role       = "M.Sc. Data Science Student @ TU Hamburg"
-        self.experience = "Ex-Data Scientist @ HighRadius (2 yrs)"
-        self.focus      = ["Real-Time Systems", "NLP", "Deep Learning", "Reinforcement Learning"]
-        self.thesis     = "GRU-TD-MPC2: Recurrent World Models for Partially Observable RL"
-        self.fun_fact   = "I debug neural nets for fun ⚡"
-```
+🎓 **M.Sc. Data Science** @ TU Hamburg (Current GPA: 1.9)  
+🎓 **B.Tech Computer Science** — 9.2 / 10 CGPA  
+💼 **2 years as Data Scientist** @ HighRadius (FinTech) — built NLP products & optimized data pipelines  
+⚡ **Focus:** Real-Time Systems · NLP · Deep Learning · Reinforcement Learning
 
 ---
 
