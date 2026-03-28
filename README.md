@@ -157,6 +157,8 @@ Full-stack football analytics platform covering 68K+ matches across Europe's top
 
 </td>
 
+<td width="50%">
+  
 ### 🤖 [RLHF — RL with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
 Implementation of reinforcement learning from human feedback — aligning model behavior with human preferences.
 
