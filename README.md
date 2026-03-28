@@ -169,6 +169,44 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🔬 [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
+Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.
+
+`Interpretability` `Causal Inference` `BERT` `Research`
+
+</td>
+<td width="50%">
+
+### 🌦️ [Weather App](https://github.com/4rajravi/weather-app)
+Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.
+
+`JavaScript` `API` `Geolocation` `CSS3`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛰️ [Space Project](https://github.com/4rajravi/space-project)
+Satellite tracker — visualize orbits in real time, predict overhead passes for your location, and more. 🚧 *In progress*
+
+`Satellites` `Visualization` `Python`
+
+</td>
+<td width="50%">
+
+### 🔜 More coming soon...
+Currently building **Football Diary** — a full-stack football analytics app with AI chat, and wrapping up thesis work on **GRU-TD-MPC2** for partially observable RL.
+
+`Stay tuned` ⚡
+
+</td>
+</tr>
 </table>
 
 ---
