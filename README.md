@@ -195,10 +195,10 @@ Satellite tracker — visualize orbits in real time, predict overhead passes for
 </td>
 <td width="50%">
 
-### 🔜 More coming soon...
-Currently building **Football Diary** — a full-stack football analytics app with AI chat, and wrapping up thesis work on **GRU-TD-MPC2** for partially observable RL.
+### ⚽ [Football Diary](https://github.com/4rajravi/football-diary)
+Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) answers natural language queries via SQL tool-use with inline charts. 17 stat types, player profiles, match timelines, and a one-click ETL pipeline.
 
-`Stay tuned` ⚡
+`Python` `FastAPI` `React` `SQLite` `Groq` `Full-Stack`
 
 </td>
 </tr>
