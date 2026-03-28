@@ -70,7 +70,7 @@
 
 ---
 
-** Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/football-diary)
+**Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/football-diary)
 <br/>
 <sub>Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) with SQL tool-use and inline charts. 17 stat types, player profiles, match timelines, one-click ETL pipeline.</sub>
 <br/>
@@ -78,7 +78,7 @@
 
 ---
 
-** Real-Time Traffic Monitoring** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Taxi-Dashboard)
+**Real-Time Traffic Monitoring** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Taxi-Dashboard)
 <br/>
 <sub>Live taxi data streaming & visualization with Kafka, Flink, and interactive dashboards. End-to-end real-time data pipeline.</sub>
 <br/>
@@ -86,7 +86,7 @@
 
 ---
 
-** Neuron Interpretability Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/neuron-interpretability)
+**Neuron Interpretability Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/neuron-interpretability)
 <br/>
 <sub>Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.</sub>
 <br/>
@@ -94,7 +94,7 @@
 
 ---
 
-** Vulnerability Prediction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Vulnerability-Prediction)
+**Vulnerability Prediction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Vulnerability-Prediction)
 <br/>
 <sub>Predicting software vulnerabilities using NLP on code — combining deep learning with security analysis.</sub>
 <br/>
@@ -102,7 +102,7 @@
 
 ---
 
-** ADHD Detection** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/ADHD-Detection)
+**ADHD Detection** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/ADHD-Detection)
 <br/>
 <sub>ML-based diagnostic tool for ADHD detection using clinical data and advanced classification models.</sub>
 <br/>
@@ -110,7 +110,7 @@
 
 ---
 
-** Weather App** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/weather-app)
+**Weather App** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/weather-app)
 <br/>
 <sub>Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.</sub>
 <br/>
@@ -118,7 +118,7 @@
 
 ---
 
-** Space Project** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/space-project)
+**Space Project** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/space-project)
 <br/>
 <sub>Satellite tracker — visualize orbits in real time, predict overhead passes for your location. 🚧 In progress</sub>
 <br/>
@@ -126,7 +126,7 @@
 
 ---
 
-** Gravitational Motion (CUDA)** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
+**Gravitational Motion (CUDA)** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
 <br/>
 <sub>GPU-accelerated N-body gravitational simulation using CUDA for high-performance parallel computing.</sub>
 <br/>
@@ -134,7 +134,7 @@
 
 ---
 
-** Cold Start Recommendation** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
+**Cold Start Recommendation** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
 <br/>
 <sub>Tackling the cold start problem in recommender systems with hybrid approaches for new users/items.</sub>
 <br/>
@@ -142,7 +142,7 @@
 
 ---
 
-** RLHF — RL with Human Feedback** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
+**RLHF — RL with Human Feedback** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
 <br/>
 <sub>Reinforcement learning from human feedback — aligning model behavior with human preferences.</sub>
 <br/>
@@ -150,7 +150,7 @@
 
 ---
 
-** Generalized ML Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
+**Generalized ML Pipeline** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
 <br/>
 <sub>Modular, reusable ML pipeline with automated preprocessing & evaluation across multiple model types.</sub>
 <br/>
@@ -158,7 +158,7 @@
 
 ---
 
-** Active Learning for Text** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
+**Active Learning for Text** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
 <br/>
 <sub>Smart sample selection strategies for efficient text classification with minimal labeled data.</sub>
 <br/>
@@ -166,7 +166,7 @@
 
 ---
 
-** Scalable Data Extraction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/chef-treff_hackathon_2025)
+**Scalable Data Extraction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/chef-treff_hackathon_2025)
 <br/>
 <sub>Hackathon project for scalable, structured data extraction from unstructured sources.</sub>
 <br/>
@@ -174,7 +174,7 @@
 
 ---
 
-** Cache Simulator** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Cache-Simulator)
+**Cache Simulator** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Cache-Simulator)
 <br/>
 <sub>Simulating CPU cache behavior — direct-mapped, set-associative, and fully-associative cache architectures.</sub>
 <br/>
