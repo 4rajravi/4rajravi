@@ -227,16 +227,6 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=4rajravi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 <div align="center">
 
 ### *"The best way to predict the future is to build it."*
