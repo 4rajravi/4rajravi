@@ -213,15 +213,13 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4rajravi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rajravi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" height="180"/>
+![Ravi's GitHub stats](https://github-readme-stats-4rajravis-projects.vercel.app/api?username=4rajravi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9)
 
-<br/><br/>
+![Top Langs](https://github-readme-stats-4rajravis-projects.vercel.app/api/top-langs/?username=4rajravi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rajravi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" width="700"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4rajravi&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
 
@@ -241,7 +239,7 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 
 <div align="center">
 
-### 💬 *"The best way to predict the future is to build it."*
+### *"The best way to predict the future is to build it."*
 
 <br/>
 
