@@ -67,13 +67,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏎️ [Real-Time Traffic Monitoring](https://github.com/4rajravi/Taxi-Dashboard)
+### [Real-Time Traffic Monitoring](https://github.com/4rajravi/Taxi-Dashboard)
 Live taxi data streaming & visualization with **Kafka**, **Flink**, and interactive dashboards. End-to-end real-time data pipeline.
 
 `Kafka` `Flink` `Streaming` `Dashboard`
@@ -81,7 +81,7 @@ Live taxi data streaming & visualization with **Kafka**, **Flink**, and interact
 </td>
 <td width="50%">
 
-### 🧠 [ADHD Detection](https://github.com/4rajravi/ADHD-Detection)
+### [ADHD Detection](https://github.com/4rajravi/ADHD-Detection)
 ML-based diagnostic tool for ADHD detection using clinical data and advanced classification models.
 
 `Classification` `Healthcare AI` `scikit-learn`
@@ -92,7 +92,7 @@ ML-based diagnostic tool for ADHD detection using clinical data and advanced cla
 <tr>
 <td width="50%">
 
-### 🔐 [Vulnerability Prediction](https://github.com/4rajravi/Vulnerability-Prediction)
+### [Vulnerability Prediction](https://github.com/4rajravi/Vulnerability-Prediction)
 Predicting software vulnerabilities using NLP on code — combining deep learning with security analysis.
 
 `NLP` `Security` `Deep Learning`
@@ -100,7 +100,7 @@ Predicting software vulnerabilities using NLP on code — combining deep learnin
 </td>
 <td width="50%">
 
-### 🎯 [Cold Start Recommendation System](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
+### [Cold Start Recommendation System](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
 Tackling the cold start problem in recommender systems with hybrid approaches for new users/items.
 
 `RecSys` `Collaborative Filtering` `Python`
@@ -111,7 +111,7 @@ Tackling the cold start problem in recommender systems with hybrid approaches fo
 <tr>
 <td width="50%">
 
-### ⚙️ [Generalized ML Pipeline](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
+### [Generalized ML Pipeline](https://github.com/4rajravi/Human-Centric-AI/tree/main/project01)
 Modular, reusable machine learning pipeline supporting multiple model types with automated preprocessing & evaluation.
 
 `MLOps` `Pipeline` `Automation`
@@ -119,7 +119,7 @@ Modular, reusable machine learning pipeline supporting multiple model types with
 </td>
 <td width="50%">
 
-### 🔬 [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
+### [Neuron Interpretability Pipeline](https://github.com/4rajravi/neuron-interpretability)
 Research pipeline for causal validation of neural representations in transformers — linear probing, neuron attribution, circuit discovery & intervention experiments on BERT.
 
 `Interpretability` `Causal Inference` `BERT` `Research`
@@ -130,7 +130,7 @@ Research pipeline for causal validation of neural representations in transformer
 <tr>
 <td width="50%">
 
-### 🌦️ [Weather App](https://github.com/4rajravi/weather-app)
+### [Weather App](https://github.com/4rajravi/weather-app)
 Interactive weather app with city search, geolocation, dynamic backgrounds & weather icons. Built with vanilla JS and Open-Meteo API.
 
 `JavaScript` `API` `Geolocation` `CSS3`
@@ -139,7 +139,7 @@ Interactive weather app with city search, geolocation, dynamic backgrounds & wea
 
 <td width="50%">
 
-### 🛰️ [Space Project](https://github.com/4rajravi/space-project)
+### [Space Project](https://github.com/4rajravi/space-project)
 Satellite tracker — visualize orbits in real time, predict overhead passes for your location, and more. 🚧 *In progress*
 
 `Satellites` `Visualization` `Python`
@@ -150,7 +150,7 @@ Satellite tracker — visualize orbits in real time, predict overhead passes for
 <tr>
 <td width="50%">
 
-### ⚽ [Football Diary](https://github.com/4rajravi/football-diary)
+### [Football Diary](https://github.com/4rajravi/football-diary)
 Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) answers natural language queries via SQL tool-use with inline charts. 17 stat types, player profiles, match timelines, and a one-click ETL pipeline.
 
 `Python` `FastAPI` `React` `SQLite` `Groq` `Full-Stack`
@@ -159,7 +159,7 @@ Full-stack football analytics platform covering 68K+ matches across Europe's top
 
 <td width="50%">
   
-### 🤖 [RLHF — RL with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
+### [RLHF — RL with Human Feedback](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
 Implementation of reinforcement learning from human feedback — aligning model behavior with human preferences.
 
 `RLHF` `RL` `Alignment`
@@ -170,7 +170,7 @@ Implementation of reinforcement learning from human feedback — aligning model 
 <tr>
 <td width="50%">
 
-### 📝 [Active Learning for Text Classification](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
+### [Active Learning for Text Classification](https://github.com/4rajravi/Human-Centric-AI/tree/main/project02)
 Smart sample selection strategies for efficient text classification with minimal labeled data.
 
 `Active Learning` `NLP` `Annotation`
@@ -178,7 +178,7 @@ Smart sample selection strategies for efficient text classification with minimal
 </td>
 <td width="50%">
 
-### 🌌 [Gravitational Motion Simulation (CUDA)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
+### [Gravitational Motion Simulation (CUDA)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
 GPU-accelerated N-body gravitational simulation using CUDA for high-performance parallel computing.
 
 `CUDA` `C++` `HPC` `Physics`
@@ -189,7 +189,7 @@ GPU-accelerated N-body gravitational simulation using CUDA for high-performance 
 <tr>
 <td width="50%">
 
-### 🍳 [Scalable Data Extraction](https://github.com/4rajravi/chef-treff_hackathon_2025)
+### [Scalable Data Extraction](https://github.com/4rajravi/chef-treff_hackathon_2025)
 Hackathon project for scalable, structured data extraction from unstructured sources.
 
 `Hackathon` `ETL` `Data Engineering`
@@ -197,7 +197,7 @@ Hackathon project for scalable, structured data extraction from unstructured sou
 </td>
 <td width="50%">
 
-### 💾 [Cache Simulator](https://github.com/4rajravi/Cache-Simulator)
+### [Cache Simulator](https://github.com/4rajravi/Cache-Simulator)
 Simulating CPU cache behavior — direct-mapped, set-associative, and fully-associative cache architectures.
 
 `C++` `Systems` `Computer Architecture`
@@ -209,7 +209,7 @@ Simulating CPU cache behavior — direct-mapped, set-associative, and fully-asso
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
