@@ -172,7 +172,6 @@
 <sub>`Hackathon` `ETL` `Data Engineering`</sub>
 
 ---
----
 
 ## GitHub Stats
 
