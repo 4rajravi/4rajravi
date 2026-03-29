@@ -67,7 +67,7 @@
 
 ---
 
-**Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/football-diary)
+**Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Football_diary)
 <br/>
 <sub>Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) with SQL tool-use and inline charts. 17 stat types, player profiles, match timelines, one-click ETL pipeline.</sub>
 <br/>
