@@ -172,14 +172,6 @@
 <sub>`Hackathon` `ETL` `Data Engineering`</sub>
 
 ---
-
-**Cache Simulator** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Cache-Simulator)
-<br/>
-<sub>Simulating CPU cache behavior — direct-mapped, set-associative, and fully-associative cache architectures.</sub>
-<br/>
-<sub>`C++` `Systems` `Computer Architecture`</sub>
-
----
 ---
 
 ## GitHub Stats
