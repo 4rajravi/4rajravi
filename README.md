@@ -125,27 +125,11 @@
 
 ---
 
-**Gravitational Motion (CUDA)** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Physical-Model-Gravitational-Motion-cuda-)
-<br/>
-<sub>GPU-accelerated N-body gravitational simulation using CUDA for high-performance parallel computing.</sub>
-<br/>
-<sub>`CUDA` `C++` `HPC` `Physics`</sub>
-
----
-
 **Cold Start Recommendation** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project04)
 <br/>
 <sub>Tackling the cold start problem in recommender systems with hybrid approaches for new users/items.</sub>
 <br/>
 <sub>`RecSys` `Collaborative Filtering` `Python`</sub>
-
----
-
-**RLHF — RL with Human Feedback** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Human-Centric-AI/tree/main/project05)
-<br/>
-<sub>Reinforcement learning from human feedback — aligning model behavior with human preferences.</sub>
-<br/>
-<sub>`RLHF` `RL` `Alignment`</sub>
 
 ---
 
@@ -165,13 +149,7 @@
 
 ---
 
-**Scalable Data Extraction** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/chef-treff_hackathon_2025)
-<br/>
-<sub>Hackathon project for scalable, structured data extraction from unstructured sources.</sub>
-<br/>
-<sub>`Hackathon` `ETL` `Data Engineering`</sub>
 
----
 
 ## GitHub Stats
 
