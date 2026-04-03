@@ -16,7 +16,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 🎓 **M.Sc. Data Science** @ TU Hamburg (Current GPA: 1.9)  
 🎓 **B.Tech Computer Science** — 9.2 / 10 CGPA  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
