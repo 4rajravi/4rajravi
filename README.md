@@ -75,6 +75,14 @@
 
 ---
 
+**Germany Rag** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Gdoc_rag)
+<br/>
+<sub>Fully local, privacy-first RAG system for navigating German administration. Hierarchical 3-level chunking, multi-stage retrieval (Query Expansion + Cross-Encoder Reranking), and grounded answers via Ollama. 100% air-gapped stack with custom scraper and Qdrant indexing.</sub>
+<br/>
+<sub>`Ollama` `Qdrant` `FastAPI` `React` `Multilingual-E5` `Local-LLM`</sub>
+
+---
+
 **Real-Time Traffic Monitoring** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Taxi-Dashboard)
 <br/>
 <sub>Live taxi data streaming & visualization with Kafka, Flink, and interactive dashboards. End-to-end real-time data pipeline.</sub>
