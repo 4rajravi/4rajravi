@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Ravi%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:1d4ed8&height=220&section=header&text=Ravi%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=20&descColor=a3e635&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=M.Sc.+Data+Science+%40+TU+Hamburg;Ex-Data+Scientist+%40+HighRadius+%7C+2+yrs;Building+intelligent+systems+end-to-end" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1d4ed8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=M.Sc.+Data+Science+%40+TU+Hamburg;Ex-Data+Scientist+%40+HighRadius+%7C+2+yrs;Building+intelligent+systems+end-to-end" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -161,11 +161,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rajravi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rajravi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1d4ed8&fire=1d4ed8&currStreakLabel=1d4ed8&sideLabels=c9d1d9&dates=8b949e" width="700"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rajravi&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rajravi&bg_color=0d1117&color=1d4ed8&line=1d4ed8&point=c9d1d9&area=true&area_color=1d4ed8&hide_border=true" width="100%"/>
 
 </div>
 
