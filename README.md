@@ -66,6 +66,14 @@
 
 ---
 
+**Collab Booster** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Collab_Booster)
+<br/>
+<sub>AI-powered collaboration workspace for Business Analysts and Developers. Combines repository ingestion, hybrid retrieval, ticket generation, business-document creation, commit-to-business explanations, onboarding, and timeline catch-up in one full-stack platform.</sub>
+<br/>
+<sub>`RAG` `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Qdrant` `LangGraph` `OpenAI`</sub>
+
+---
+
 **Football Diary** &nbsp; [![Repo](https://img.shields.io/badge/→_Repo-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/4rajravi/Football_diary)
 <br/>
 <sub>Full-stack football analytics platform covering 68K+ matches across Europe's top leagues. AI chat agent (Groq/Llama 3.3 70B) with SQL tool-use and inline charts. 17 stat types, player profiles, match timelines, one-click ETL pipeline.</sub>
