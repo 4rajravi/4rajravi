@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1d4ed8&height=240&section=header&text=Ravi%20Raj&fontSize=68&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=20&descColor=a3e635&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1d4ed8&height=280&section=header&text=Ravi%20Raj&fontSize=58&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=17&descColor=a3e635&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=M.Sc.+Data+Science+%40+TU+Hamburg;Ex-Data+Scientist+%40+HighRadius+%7C+2+yrs;Building+intelligent+systems+end-to-end" alt="Typing SVG" /></a>
