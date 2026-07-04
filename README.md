@@ -9,7 +9,7 @@
 <br/>
 
 <!-- QUICK LINKS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-r-0a440a193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4rajravi/)
 [![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DpK7brLoF09dZdgJqbcbbH9KsyH8SmaB/view?usp=drive_link)
 </div>
 
